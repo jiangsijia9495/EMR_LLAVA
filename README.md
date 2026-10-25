@@ -1,6 +1,5 @@
-# Educational local LLaVA document-processing prototype
+# local LLaVA document-processing prototype
 
-**Not the original project.** This is a newly written reference implementation to learn what an EMR-to-research-data pipeline *could* look like. No original dataset, code, model checkpoint ID, or research-variable definitions have been provided. Do not claim this was the original implementation or that you built the original system.
 
 ## Security / limitations
 
