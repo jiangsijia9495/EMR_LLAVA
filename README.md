@@ -54,6 +54,3 @@ GPU code loads `llava-hf/llava-1.5-7b-hf` once in FP16 (`AutoProcessor` and `Lla
 - Deterministic normalisation for numerical fields and units, date parsing, categorical mappings, duplicate checks, and quality assurance against a held-out human-reviewed reference set.
 - Privacy controls, encryption, redaction, access control, failure/retry logic, audit logs (without sensitive text), reproducible model versions, and quantitative benchmarks.
 
-## Interview honesty
-
-A truthful description is: "I studied the architecture of a local LLaVA setup on Ubuntu with an RTX 4090, and I built an independent educational prototype to understand document routing, model inference, response validation, and feature export." Say you built the prototype only after doing so. Do not claim implementation details or performance results for the original project.
