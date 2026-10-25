@@ -1,8 +1,0 @@
-# Install CUDA-enabled PyTorch for your system first (see https://pytorch.org/get-started/locally/).
-transformers>=4.49,<5
-accelerate>=0.30
-pandas>=2.0
-pymupdf>=1.23
-pillow>=10
-sentencepiece
-safetensors

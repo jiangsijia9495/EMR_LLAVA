@@ -1,5 +1,0 @@
-document_id,page_number,file_type,digital_text_chars,detected_tables,tabular_rows,tabular_columns,page_kind,has_handwriting,needs_human_review,inference_status
-doc_0001,1,.csv,0,1,2,3,table,,True,not_applicable
-doc_0002,1,.pdf,165,1,0,0,unknown,,True,skipped
-doc_0003,1,.txt,74,0,0,0,report,,True,not_applicable
-doc_0004,1,.png,0,0,0,0,unknown,,True,skipped
